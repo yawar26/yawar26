@@ -1,14 +1,6 @@
 # 👋 Hi, I am Yawar Rehman (야와르 레만 | یاور رحمان)
 
-I am a **Research Professor at Kyungpook National University, Daegu, South Korea**.
-
-Before joining Kyungpook National University, I worked as a **Principal Researcher and AI Team Lead at OnDAI Inc.**, where I contributed to industrial AI projects including **AI based accident fault ratio estimation for DB Insurance**, **drone intrusion detection for Incheon International Airport**, and several other AI projects for industry clients.
-
-Earlier, I worked as an **Assistant Professor at NED University of Engineering & Technology, Pakistan**.
-
-I received my **Ph.D. from Hanyang University, ERICA Campus, South Korea**, and my **B.E. degree from Mehran University of Engineering & Technology, Pakistan**.
-
-My research interests include **Computer Vision, Video Understanding, and Edge AI Computing for Physical AI**.
+I am a **Research Professor at Kyungpook National University, Daegu, South Korea**. Before joining Kyungpook National University, I worked as a **Principal Researcher and AI Team Lead at OnDAI Inc.**, where I contributed to industrial AI projects including **AI based accident fault ratio estimation for DB Insurance**, **drone intrusion detection for Incheon International Airport**, and several other AI projects for industry clients. Earlier, I worked as an **Assistant Professor at NED University of Engineering & Technology, Pakistan**. I received my **Ph.D. from Hanyang University, ERICA Campus, South Korea**, and my **B.E. degree from Mehran University of Engineering & Technology, Pakistan**. My research interests include **Computer Vision, Video Understanding, and Edge AI Computing for Physical AI**.
 
 ## 📓 Publications (selected)
 
