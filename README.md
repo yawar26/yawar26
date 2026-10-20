@@ -6,6 +6,7 @@ I am a research professor at Kyungpook National University, Daegu, South Korea. 
 
 - **[YOLO-SOD: Color probability map based fuzzy framework using deep models for face detection](https://doi.org/10.1371/journal.pone.0360794)**  
   *PLOS ONE — Accepted, in press* 2026
+
 - **[Discriminative deformable part model for pedestrian detection with occlusion handling](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VclpjuIAAAAJ&sortby=pubdate&citation_for_view=VclpjuIAAAAJ:qxL8FJ1GzNcC)**  
   S. Siddiqi, M. F. Shirazi, **Y. Rehman**  
   *AI, 6(4), 70* 2025
