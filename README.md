@@ -18,6 +18,6 @@ I am a research professor at Kyungpook National University, Daegu, South Korea. 
   *IEEE Access, 10, 18667–18680, 2022.*  
   [Google Scholar ↗](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VclpjuIAAAAJ&sortby=pubdate&citation_for_view=VclpjuIAAAAJ:UebtZRa9Y70C)
 
-### Full publication list
+### Full Publication List
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VclpjuIAAAAJ&hl=en)
