@@ -15,6 +15,6 @@ I am a research professor at Kyungpook National University, Daegu, South Korea. 
   **Y. Rehman**, H. Amanullah, M. A. Shirazi, M. Y. Kim\
   *IEEE Access, 10, 18667–18680, 2022.*
 
-### Full Publication List
+### Full publication list
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VclpjuIAAAAJ&hl=en)
