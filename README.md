@@ -13,8 +13,7 @@ I am a research professor at Kyungpook National University, Daegu, South Korea. 
 
 - **[Small traffic sign detection in big images: Searching needle in a hay](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VclpjuIAAAAJ&sortby=pubdate&citation_for_view=VclpjuIAAAAJ:UebtZRa9Y70C)**  
   **Y. Rehman**, H. Amanullah, M. A. Shirazi, M. Y. Kim  
-  *IEEE Access, 10, 18667–18680, 2022.*  
-  [Google Scholar ↗](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VclpjuIAAAAJ&sortby=pubdate&citation_for_view=VclpjuIAAAAJ:UebtZRa9Y70C)
+  *IEEE Access, 10, 18667–18680, 2022.*
 
 ### Full Publication List
 
